@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamal7207&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamal7207" /> </p>
+<img align="right" height="150" src="https://c.tenor.com/fb1yHCV-0y8AAAAd/tenor.gif"  />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal7207&title=Repositories,Experience,Commits&theme=monokai" alt="ahmedgamal7207" /></a> </p>
 
@@ -18,7 +19,6 @@
 - ⚡ Fun fact **My love for coding and teaching started early—at 16, I built a Python-powered Personal Assistant that could chat, play songs, and fetch live match data. Since then, I've created coding lessons for 4-year-olds (included Bubble Sort!) and guided 7-year-olds to build Telegram Bots and explore AI and Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" height="150" src="https://c.tenor.com/fb1yHCV-0y8AAAAd/tenor.gif"  />
 
 ###
 
