@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamal7207&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamal7207" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal7207" alt="ahmedgamal7207" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal7207&title=Repositories,Experience,Commits" alt="ahmedgamal7207" /></a> </p>
 
 - 🔭 I’m currently working on [EduTrack (AI-Driven Solutions for Educational Innovation)](https://github.com/AhmedGamal7207/EduTrack)
 
