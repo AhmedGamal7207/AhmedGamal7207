@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">AI Engineer and Software Developer</h3>
+<h3 align="center">AI Engineer , Software Developer , IEEE AlexCSC Chairman and Former Technical Leader at Genio Tech Company</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamal7207&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamal7207" /> </p>
 
